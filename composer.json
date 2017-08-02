@@ -2,6 +2,7 @@
     "name": "xparthxvorax/demo",
     "description": "Demo package",
     "type": "composer-plugin",
+    "minimum-stability": "stable",
     "require": {
         "monolog/monolog": "^1.23"
     },
